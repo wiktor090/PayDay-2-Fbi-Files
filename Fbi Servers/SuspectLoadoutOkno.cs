@@ -19,7 +19,7 @@ namespace Fbi_Servers
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Finding... ", "Whait 5 seconds", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
