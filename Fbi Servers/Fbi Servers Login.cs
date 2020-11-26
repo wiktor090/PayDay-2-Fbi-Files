@@ -19,7 +19,7 @@ namespace Fbi_Servers
 
         private void button8_Click(object sender, EventArgs e)
         {
-
+            new SuspectLoadoutOkno().Show();
         }
 
         private void Fbi_Servers_Login_FormClosed(object sender, FormClosedEventArgs e)
